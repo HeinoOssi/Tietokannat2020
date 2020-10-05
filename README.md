@@ -1,1 +1,3 @@
-# TIetokannat2020
+# Tietokannat2020
+
+Harjoitustyö OAMK Tietokannat -kurssille.
