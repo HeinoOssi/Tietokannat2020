@@ -1,3 +1,3 @@
-# Tietokannat2020
+# Tietokannat
 
-Harjoitustyö OAMK Tietokannat -kurssille.
+"Varasto"
